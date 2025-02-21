@@ -1,4 +1,4 @@
-# Gera-o_Energia_ONS_API
+# Geracao_Energia_ONS_API
 Este script é responsável por buscar dados de geração de energia de diferentes subsistemas do Operador Nacional do Sistema Elétrico (ONS) utilizando a API oficial. Ele salva esses dados em um arquivo CSV. O script foi otimizado para ser executado de forma paralela, utilizando threads para melhorar o desempenho.
 
 # Instruções para o Script de Geração de Energia Diária do ONS
@@ -20,7 +20,7 @@ Este script é responsável por buscar dados de geração de energia de diferent
 
 ### Pré-requisitos
 
-- Python 3.07 ou superior
+- Python 3.7 ou superior
 - Bibliotecas Python:
   - `requests`
   - `pandas`
